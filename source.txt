@@ -1,0 +1,14 @@
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+https://filters.adtidy.org/extension/chromium/filters/224.txt
+https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
+https://filters.adtidy.org/extension/chromium/filters/225.txt
+https://filters.adtidy.org/extension/chromium/filters/3.txt
+https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+https://filters.adtidy.org/extension/chromium/filters/4.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
+https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt
