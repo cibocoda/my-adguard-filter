@@ -21,22 +21,23 @@ for url in urls:
             for line in lines:
                 line = line.strip()
                 
-                # 1. 跳過空白行與註解
-                if not line or line.startswith(('!', '#', '[')):
+                # 1. 嚴格過濾：跳過註解、空白行，以及「放行規則 (@@)」
+                if not line or line.startswith(('!', '#', '[', '@@')):
                     continue
                 
-                # 2. 格式標準化處理
-                # 移除開頭的 0.0.0.0 或 127.0.0.1
+                # 2. 格式清洗
+                # 移除 hosts 格式開頭的 IP
                 line = re.sub(r'^(0\.0\.0\.0|127\.0\.0\.1)\s+', '', line)
-                # 移除 Adblock 特有符號 (|| 和 ^) 統一為 domain 格式
+                # 移除 Adblock 特有符號
                 line = line.replace('||', '').replace('^', '')
-                # 移除可能存在的行尾註解
+                # 移除行尾備註
                 line = line.split('#')[0].split('!')[0].strip()
                 
-                # 3. 基礎有效性檢查
-                # 確保包含 '.' 且長度合理，排除純數字(IP)或太短的垃圾規則
+                # 3. 有效性檢查 (只保留看起來像網域的字串)
                 if '.' in line and len(line) > 3 and not line[0].isdigit():
-                    all_rules.add(line)
+                    # 額外保險：如果清洗完還帶有特殊符號（如 / 或 *），通常是過於複雜的網頁規則，DNS 擋不了，跳過
+                    if '/' not in line and '*' not in line:
+                        all_rules.add(line)
         else:
             print(f"下載失敗 (Status {response.status_code}): {url}")
     except Exception as e:
