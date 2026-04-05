@@ -2,21 +2,21 @@ name: Update Combined Filter
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 每天 UTC 00:00 執行
-  workflow_dispatch: # 允許手動點擊按鈕觸發
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
-  contents: write  # 允許 Action 把檔案推回儲存庫
-  
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
