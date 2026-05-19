@@ -1,2 +1,4 @@
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
+https://raw.githubusercontent.com/Rentianhe/Adguard-Home-Rules/master/Anti-Frap.txt
