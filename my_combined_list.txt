@@ -1,6 +1,6 @@
 ! Title: My Combined Filter (Original Format)
-! Last Modified: 2026-08-28 09:40:08
-! Total Rules: 279609
+! Last Modified: 2026-08-29 05:43:56
+! Total Rules: 279621
 !
 *watson.events.data.microsoft.com^
 ||0--0.info^
@@ -2956,6 +2956,7 @@
 ||11win.mx^
 ||11win.net^
 ||11win.skin^
+||11win.style^
 ||11win.tips^
 ||11win.vin^
 ||11win.works^
@@ -6437,11 +6438,13 @@
 ||3bc2a6115d.com^
 ||3bcfbe6fbf.com^
 ||3beauty-gym.com^
+||3bet.adqc.net^
 ||3bet.baby^
 ||3bet.bike^
 ||3bet.biz^
 ||3bet.center^
 ||3bet.city^
+||3bet.fund^
 ||3bet.host^
 ||3bet.la^
 ||3bet.llc^
@@ -10263,6 +10266,7 @@
 ||9bet.diy^
 ||9bet.fund^
 ||9bet.green^
+||9bet.krd^
 ||9bet.mobi^
 ||9bet.net^
 ||9bet.photo^
@@ -13530,7 +13534,6 @@
 ||a41334.actonservice.com^
 ||a41342.actonservice.com^
 ||a41385.actonservice.com^
-||a41505.actonservice.com^
 ||a41522.actonservice.com^
 ||a41547.actonservice.com^
 ||a41550.actonservice.com^
@@ -14956,7 +14959,6 @@
 ||a8clk.chapup.jp^
 ||a8clk.chat-wifi.site^
 ||a8clk.checkout.leafee.me^
-||a8clk.chibakan-yachiyo.net^
 ||a8clk.chuko-truck.com^
 ||a8clk.cleaneo.jp^
 ||a8clk.cocorotherapy.com^
@@ -38576,6 +38578,7 @@
 ||api.9bet.diy^
 ||api.9bet.fund^
 ||api.9bet.green^
+||api.9bet.krd^
 ||api.9bet.mobi^
 ||api.9bet.photo^
 ||api.9bet.win^
@@ -67508,7 +67511,6 @@
 ||consent.prismamedia.com^
 ||consent.prointernet.com^
 ||consent.shutterfly.com^
-||consent.standardadmin.org^
 ||consent.stuff.tv^
 ||consent.t-mobile.cz^
 ||consent.thecountrysmallholder.com^
@@ -83984,6 +83986,7 @@
 ||du88.in^
 ||du88.info^
 ||du88.life^
+||du88.mba^
 ||du88.pro^
 ||du88.rent^
 ||du88.sh^
@@ -111362,6 +111365,7 @@
 ||gw.milfy.com^
 ||gw.mubet.media^
 ||gw.mubet.talk^
+||gw.mubet.tips^
 ||gw.mubet.vip^
 ||gw.pro-alarm.nl^
 ||gw.slayed.com^
@@ -113021,6 +113025,7 @@
 ||hbet.sh^
 ||hbet.so^
 ||hbet.spa^
+||hbet.srl^
 ||hbet.vc^
 ||hbet.win^
 ||hbfpml.cn^
@@ -130542,6 +130547,7 @@
 ||k88.mobi^
 ||k88.moe^
 ||k88.mov^
+||k88.now^
 ||k88.nz^
 ||k88.pro^
 ||k88.soy^
@@ -139202,7 +139208,6 @@
 ||links.orders.kfc.com^
 ||links.ottplay.com^
 ||links.outskill.app^
-||links.own.tv^
 ||links.oxstreet.com^
 ||links.petpartner.co^
 ||links.ph.discoveryplus.com^
@@ -143666,6 +143671,7 @@
 ||lu88.com^
 ||lu88.de^
 ||lu88.ec^
+||lu88.foo^
 ||lu88.gd^
 ||lu88.gdn^
 ||lu88.kim^
@@ -147011,6 +147017,7 @@
 ||man88.vip^
 ||man88.vu^
 ||man88.win^
+||man88.wtf^
 ||man88.xin^
 ||manage.adplicit.com^
 ||manage.aniview.com^
@@ -148026,7 +148033,6 @@
 ||marketing.handt.co.uk^
 ||marketing.hardysolutions.com^
 ||marketing.harlancapital.com^
-||marketing.harrishealthcare.com^
 ||marketing.haughn.com^
 ||marketing.havenfinancialgroup.com^
 ||marketing.healthcarousel.com^
@@ -183807,6 +183813,7 @@
 ||play.vic.hair^
 ||play.vicclub.ac^
 ||play.vicclub.id^
+||play.vicclub.mx^
 ||play.vicclub.sh^
 ||play.vip79.top^
 ||play.wavelength.zone^
@@ -188860,6 +188867,7 @@
 ||pub88.camera^
 ||pub88.channel^
 ||pub88.charity^
+||pub88.college^
 ||pub88.com^
 ||pub88.day^
 ||pub88.forum^
@@ -215466,6 +215474,7 @@
 ||sk.xibet.tax^
 ||sk.xibet.vu^
 ||sk.xibet.wtf^
+||sk.xibet.you^
 ||sk.zatube.com^
 ||sk.zbet.ws^
 ||sk0.monnierfreres.eu^
@@ -220323,6 +220332,7 @@
 ||socket.9bet.diy^
 ||socket.9bet.fund^
 ||socket.9bet.green^
+||socket.9bet.krd^
 ||socket.9bet.mobi^
 ||socket.9bet.photo^
 ||socket.9bet.win^
@@ -221083,7 +221093,6 @@
 ||somnit.equinox.com^
 ||somniture.chip.de^
 ||somniture.compactappliance.com^
-||somniture.edgestar.com^
 ||somniture.faucetdirect.com^
 ||somniture.handlesets.com^
 ||somniture.kegerator.com^
@@ -249119,6 +249128,7 @@
 ||tx88.download^
 ||tx88.fan^
 ||tx88.fashion^
+||tx88.free^
 ||tx88.fun^
 ||tx88.fund^
 ||tx88.fyi^
@@ -259762,6 +259772,7 @@
 ||vu.lireairtime.shop^
 ||vu.rabbinshoodlum.com^
 ||vu88.ac^
+||vu88.best^
 ||vu88.com^
 ||vu88.cz^
 ||vu88.de^
@@ -266204,6 +266215,7 @@
 ||wp.9bet.diy^
 ||wp.9bet.fund^
 ||wp.9bet.green^
+||wp.9bet.krd^
 ||wp.9bet.mobi^
 ||wp.9bet.photo^
 ||wp.9bet.win^
